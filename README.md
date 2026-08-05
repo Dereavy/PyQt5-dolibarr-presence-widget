@@ -1,6 +1,8 @@
 # Dolibarr Presences Clock-In Desktop Widget
 
-A gorgeous, premium, dark-themed PyQt5 desktop application designed for your Kubuntu/KDE desktop. It interfaces directly with our newly-updated REST API endpoints of the Dolibarr `presences` module.
+**This is for archive purposes only as it interfaces with a custom API added to the employee-presence plugin for dolibarr by nextgestion.**
+
+A gorgeous, premium, dark-themed PyQt5 desktop application designed for your Kubuntu/KDE desktop. It interfaces directly with custom REST API endpoints of the Dolibarr `presences` module.
 
 <p align="center">
   <img src="PresenceWidgetClockOut.png" alt="Presence Widget - Clock Out State" width="45%" />
